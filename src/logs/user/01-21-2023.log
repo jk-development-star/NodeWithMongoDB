@@ -1,0 +1,208 @@
+{
+  status: '201',
+  user_id: '63cbf9c18615d9cbf2dfdb3b',
+  user_name: 'jitendra',
+  user_email: 'jitendra@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:42:09.969Z'
+}
+{
+  status: '201',
+  user_id: '63cbfa5b9d2a33f2977447b8',
+  user_name: 'jitendra',
+  user_email: 'jitendra1@yopmail.com',
+  password: 'undefined',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:44:43.962Z'
+}
+{
+  status: '201',
+  user_id: '63cbfc135ba415156bcb3917',
+  user_name: 'jitendra',
+  user_email: 'jitendra2@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:52:03.395Z'
+}
+{
+  status: '201',
+  user_id: '63cbfc4fae21204af5ba8020',
+  user_name: 'jitendra',
+  user_email: 'jitendra3@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:53:03.991Z'
+}
+{
+  status: '201',
+  user_id: '63cbfd86f3663c7ad9d7fb8e',
+  user_name: 'jitendra',
+  user_email: 'jitendra4@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:58:14.589Z'
+}
+{
+  status: '201',
+  user_id: '63cbfde7e5a0a545d5f90d24',
+  user_name: 'jitendra',
+  user_email: 'jitendra5@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T14:59:51.683Z'
+}
+{
+  status: '201',
+  user_id: '63cbfea82d7cdfaa8474a124',
+  user_name: 'jitendra',
+  user_email: 'jitendra6@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T15:03:04.345Z'
+}
+{
+  status: '201',
+  user_id: '63cbfece4058cc5de64a5864',
+  user_name: 'jitendra',
+  user_email: 'jitendra7@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T15:03:42.452Z'
+}
+{
+  status: '201',
+  user_id: '63cbff15dac86faaac294bcd',
+  user_name: 'jitendra',
+  user_email: 'jitendra8@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T15:04:53.494Z'
+}
+{
+  status: '201',
+  user_id: '63cbffbf1052acbedbe5f624',
+  user_name: 'jitendra',
+  user_email: 'jitendra9@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T15:07:43.622Z'
+}
+{
+  status: '201',
+  user_id: '63cbfffde8bac897be15b312',
+  user_name: 'jitendra',
+  user_email: 'jitendra@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T15:08:45.335Z'
+}
+{
+  status: '201',
+  user_id: '63cc179440c9de1cba7ea859',
+  user_name: 'jitendra',
+  user_email: 'jitendra1@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T16:49:24.461Z'
+}
+{
+  status: '201',
+  user_id: '63cc1b03ce28ab4c8021a0a0',
+  user_name: 'jitendra',
+  user_email: 'jitendra2@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:04:03.631Z'
+}
+{
+  status: '201',
+  user_id: '63cc1c77243f5d2b8baaaa4f',
+  user_name: 'jitendra',
+  user_email: 'jitendra3@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:10:15.813Z'
+}
+{
+  status: '201',
+  user_id: '63cc1caa3f41bc49d70d7600',
+  user_name: 'jitendra',
+  user_email: 'jitendra4@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:11:06.667Z'
+}
+{
+  status: '201',
+  user_id: '63cc1e939fd6f2b2bb289ec4',
+  user_name: 'jitendra',
+  user_email: 'jitendra5@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:19:15.453Z'
+}
+{
+  status: '201',
+  user_id: '63cc1ee217fd9dd7ee414956',
+  user_name: 'jitendra',
+  user_email: 'jitendra6@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:20:34.416Z'
+}
+{
+  status: '201',
+  user_id: '63cc1ef417fd9dd7ee41495b',
+  user_name: 'jitendra',
+  user_email: 'jitendra7@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:20:52.217Z'
+}
+{
+  status: '201',
+  user_id: '63cc1ef817fd9dd7ee41495e',
+  user_name: 'jitendra',
+  user_email: 'jitendra8@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:20:56.565Z'
+}
+{
+  status: '201',
+  user_id: '63cc1efc17fd9dd7ee414961',
+  user_name: 'jitendra',
+  user_email: 'jitendra9@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:21:00.982Z'
+}
+{
+  status: '201',
+  user_id: '63cc1f0217fd9dd7ee414964',
+  user_name: 'jitendra',
+  user_email: 'jitendra10@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:21:06.426Z'
+}
+{
+  status: '201',
+  user_id: '63cc22bbaf19ebfb53bd3e38',
+  user_name: 'jitendra',
+  user_email: 'jitendra11@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:36:59.460Z'
+}
+{
+  status: '201',
+  user_id: '63cc23937c883360187fbccb',
+  user_name: 'jitendra',
+  user_email: 'jitendra12@yopmail.com',
+  level: 'info',
+  message: 'User created!',
+  timestamp: '2023-01-21T17:40:35.436Z'
+}
